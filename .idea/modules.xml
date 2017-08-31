@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidHotSpotToggle.iml" filepath="$PROJECT_DIR$/AndroidHotSpotToggle.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifiap/wifiap.iml" filepath="$PROJECT_DIR$/wifiap/wifiap.iml" />
     </modules>
   </component>
 </project>
